@@ -1,3 +1,24 @@
+#Fork Additions by Pixel
+- Changed ImGUI branch to -docking and changed the UI code to support docking
+- Added new Dark Theme for looks
+- Transform Component UI Changed
+- Added GLSL denoiser since OIDN causes frame drops (GLSL denoiser isn't perfect either its a tradeoff of clarity by speed)
+- Denoising happens by clicking the denoiser button instead of every 20 frames Denoised Image is in the Denoiser TAB
+
+Here's How it looks atm
+![Screenshot (241)](https://user-images.githubusercontent.com/55246644/137784741-11f252fc-a4c2-48a9-87fa-93e7ec46d630.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/55246644/137784756-aab67f72-c6c4-4cef-b505-13495b47bbcb.png)
+
+I'm currently working on adding ImGUIzmo again since it got messed up when setting up the viewport with framebuffers
+I'd really appreciate it if you could create a new branch to avoid conflicts
+
+Current TO-DO
+- [ ] Adding GUIzmo again
+- [ ] Mouse picking for objects
+- [ ] Overall more UI Improvements
+
+Have a nice day ;D
+
 
 GLSL-PathTracer
 ==========
