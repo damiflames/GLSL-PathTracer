@@ -12,7 +12,7 @@ Here's How it looks atm
 I'm currently working on adding ImGUIzmo again since it got messed up when setting up the viewport with framebuffers
 I'd really appreciate it if you could create a new branch to avoid conflicts
 
-Current TO-DO
+Current TO-DO (I've stopped working on it now lmao)
 - [ ] Adding GUIzmo again
 - [ ] Mouse picking for objects
 - [ ] Overall more UI Improvements
